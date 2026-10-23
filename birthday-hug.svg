@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Pastel illustration of a cozy couple hug">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9dbe4"/><stop offset="1" stop-color="#b58aaf"/></linearGradient>
+ <linearGradient id="sweater" x1="0" y1="0" x2="0.9" y2="1"><stop stop-color="#bd627f"/><stop offset="1" stop-color="#7e466e"/></linearGradient>
+ <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#8c9cc8"/><stop offset="1" stop-color="#515d8d"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="800" height="1000" fill="url(#bg)"/>
+<circle cx="130" cy="160" r="95" fill="#fff4e9" opacity=".45"/><circle cx="690" cy="230" r="130" fill="#fbeaf0" opacity=".35"/>
+<g fill="#fff7f3" opacity=".8"><path d="M140 310c-35-40-95 10-25 65l25 18 25-18c70-55 10-105-25-65z"/><path d="M650 135c-20-24-57 5-15 38l15 12 15-12c42-33 5-62-15-38z"/><path d="M610 420c-18-22-50 4-13 34l13 10 13-10c37-30 5-56-13-34z"/></g>
+<ellipse cx="405" cy="875" rx="245" ry="55" fill="#6d4268" opacity=".22" filter="url(#shadow)"/>
+<!-- person on the left -->
+<path d="M170 790c15-150 58-264 156-287 82-20 142 50 150 153l20 196H170z" fill="url(#blue)"/>
+<path d="M270 540c-22-60-6-142 51-178 50-32 115-10 131 45 17 59-13 131-69 155-46 19-91 8-113-22z" fill="#f0b99e"/>
+<path d="M253 402c-7-82 43-140 112-139 70 0 104 49 98 116-25-23-38-54-43-75-34 44-94 65-167 65z" fill="#46313f"/>
+<path d="M294 443q20 12 37 0" fill="none" stroke="#9b5e62" stroke-width="7" stroke-linecap="round"/>
+<path d="M345 450q18 12 34 0" fill="none" stroke="#9b5e62" stroke-width="7" stroke-linecap="round"/>
+<!-- person on the right -->
+<path d="M385 812c-7-161 19-276 108-311 93-36 166 30 180 141l-8 210z" fill="url(#sweater)"/>
+<path d="M412 435c-3-66 35-126 97-133 69-8 113 40 109 108-4 64-42 115-100 121-57 5-102-37-106-96z" fill="#f5c6aa"/>
+<path d="M410 443c-23-79 4-149 71-170 58-18 119 15 137 76-29-13-48-31-61-53-18 45-75 78-145 83z" fill="#342a3d"/>
+<path d="M444 468q19 10 34-2" fill="none" stroke="#a35f69" stroke-width="7" stroke-linecap="round"/>
+<path d="M500 470q19 10 34-2" fill="none" stroke="#a35f69" stroke-width="7" stroke-linecap="round"/>
+<!-- arms wrapping around each other -->
+<path d="M260 616c55 4 93 65 147 83 54 18 100-17 126-50 19-24 49-24 63-4 14 21 2 47-18 68-60 64-123 95-193 67-70-28-113-78-150-112z" fill="#f0b99e"/>
+<path d="M588 602c-32 55-84 89-144 104-35 9-66-3-89-25-22-22-52-23-68-4-16 19-9 46 13 66 53 48 113 73 177 52 59-19 114-68 149-126z" fill="#f5c6aa"/>
+<!-- little hands -->
+<path d="M350 718c30-15 54-11 75 10 13 14 6 35-13 41-27 9-51-9-67-26z" fill="#f0b99e"/>
+<path d="M475 701c-25-15-49-8-66 14-11 15-3 34 15 39 25 7 47-12 61-30z" fill="#f5c6aa"/>
+<g fill="#fff7f3" opacity=".9"><path d="M205 190l8 20 20 8-20 8-8 20-8-20-20-8 20-8z"/><path d="M590 300l6 15 15 6-15 6-6 15-6-15-15-6 15-6z"/><path d="M530 170l5 12 12 5-12 5-5 12-5-12-12-5 12-5z"/></g>
+<text x="400" y="940" text-anchor="middle" font-family="Georgia,serif" font-size="29" fill="#fff7f3" letter-spacing="2">A LITTLE HUG FOR YOU ♡</text>
+</svg>
